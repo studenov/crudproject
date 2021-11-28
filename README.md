@@ -7,6 +7,7 @@ mysql
 composer
 
 or use laravel-sail
+
 ###Installation
 
 cd /var/www
